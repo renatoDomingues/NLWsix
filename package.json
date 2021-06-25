@@ -1,0 +1,20 @@
+{
+  "name": "NLWsix",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas anonimas de usuários direcionadas ao dono da página. Projeto desenvolvido na semana NLW 'Next Level Week' da RocketSeat na missão discover, ao sobre comando da Jakeliny!",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon .",
+    "dominguesDEV": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "Renato Domingues Silva",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
